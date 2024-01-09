@@ -1,0 +1,11 @@
+.footer {
+    background-color: #F28AB3;
+    padding: 4rem;
+    margin-top: 3rem;
+}
+
+.footer__description {
+    color: #ffffff;
+    text-align: center;
+    letter-spacing: 0.5px;
+}
