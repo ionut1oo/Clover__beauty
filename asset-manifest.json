@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Clover__beauty/static/css/main.a48bec34.css",
-    "main.js": "/Clover__beauty/static/js/main.86b394a4.js",
+    "main.js": "/Clover__beauty/static/js/main.a5ecb9d1.js",
     "index.html": "/Clover__beauty/index.html",
     "main.a48bec34.css.map": "/Clover__beauty/static/css/main.a48bec34.css.map",
-    "main.86b394a4.js.map": "/Clover__beauty/static/js/main.86b394a4.js.map"
+    "main.a5ecb9d1.js.map": "/Clover__beauty/static/js/main.a5ecb9d1.js.map"
   },
   "entrypoints": [
     "static/css/main.a48bec34.css",
-    "static/js/main.86b394a4.js"
+    "static/js/main.a5ecb9d1.js"
   ]
 }
